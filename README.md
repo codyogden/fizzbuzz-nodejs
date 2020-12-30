@@ -34,14 +34,14 @@ Make a request with a valid JSON array body containing values to be processed. A
 **Example Response Body**
 ```json
 [
-    "Divided 1 by 3",
-    "Divided 1 by 5",
-    "Fizz",
-    "Buzz",
-    "FizzBuzz",
-    "FizzBuzz",
-    "Invalid Item",
-    "Divided 23 by 3",
-    "Divided 23 by 5"
+  "Divided 1 by 3",
+  "Divided 1 by 5",
+  "Fizz",
+  "Buzz",
+  "Invalid Item",
+  "FizzBuzz",
+  "Invalid Item",
+  "Divided 23 by 3",
+  "Divided 23 by 5"
 ]
 ```
