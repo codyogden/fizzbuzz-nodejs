@@ -11,7 +11,7 @@ This is a web application in NodeJS that takes a collection of values.
 Node v11.0.0 or higher.
 
 ## Getting Started
-To run this application, clone the repository and run `npm run start`. Next, open [http://localhost:9000].
+To run this application, clone the repository and run `npm run start`. Next, open [http://localhost:9000](http://localhost:9000). Add, change, or remove values in the text area. Then click the `FizzBuzz!` button to process the values.
 
 ## API
 `/fizzbuzz` (POST)
