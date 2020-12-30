@@ -1,0 +1,11 @@
+{
+  "name": "codyogden-fizzbuzz-nodejs",
+  "version": "1.0.0",
+  "description": "FizzBuzz web application in NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Cody Ogden <cody@codyogden.com>",
+  "license": "MIT"
+}
